@@ -49,6 +49,8 @@ System speaks result
 python3 rpicam.py
 ⚡ Auto Start on Boot
 
+You will also need a micro hdmi cabel for the rpi for the display, or you can just do the realvnc thing
+
 If service is enabled:
 
 sudo systemctl start blinkx.service
